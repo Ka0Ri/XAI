@@ -131,6 +131,7 @@ dmypy.json
 #data
 dataset
 data
+VOC
 
 #logging
 .neptune
